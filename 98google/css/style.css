@@ -1,45 +1,68 @@
 .header {
-    background-color: yellowgreen;
-    width: 1290px;
-    height:110px;
-    margin: 15px;
-    padding: 10px;
+    width: 100%;
     text-align: center; 
 }
 
 .container {
-    width: 100%;
+    width: 1200px;
     height: 550px;
     margin: auto;
-    background-color: rgb(121, 107, 201);
     
-
 }
 
 .section1 {
-    background-color: aqua;
-    width: 30%;
+    background-color: #7EE5DA;
+    width: 35%;
     height:80px;
     float: left;
-    margin-left:20px;
-    margin-right:20px;
-    padding: 2px;
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
 }
-/*
+
 .section2 {
-    background-color: aqua;
+    background-color: #70CCC2;
     width: 20%;
     height:80px;
     float: left;
-    margin: auto;
+    margin: 1px;
     padding: 1px;
+    text-align: center;
 }
 .section3 {
-    background-color: aqua;
-    width: 20%;
+    background-color: #62B3AA;
+    width: 44%;
     height:80px;
     padding: 2px;
     float: left;    
-    margin: auto;
+    margin: 1px;
     padding: 1px;
-} */ 
+    text-align: center;
+}
+
+.search {
+
+    background-color: #EEEEEE;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+
+}
+
+.tbar {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+.tbar2 {
+    display: block;
+    margin: auto;
+    width: 200px;
+
+}
+.canb {
+    text-align: center;
+    margin-top: 90px;
+    display: block;
+}
